@@ -332,6 +332,7 @@ canon
 caper
 caput
 carat
+carer
 cargo
 carol
 carry
