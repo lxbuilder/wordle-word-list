@@ -632,6 +632,7 @@ ebony
 eclat
 edict
 edify
+educe
 eerie
 egret
 eight
